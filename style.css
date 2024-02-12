@@ -7,7 +7,8 @@
 }
 h1{
     text-align: center;
-    margin: 30px;
+  
+    font-size: 1em;
 }
 main{
     display: flex;
@@ -29,19 +30,19 @@ main{
 #caixa1{
     background-color: rgb(128, 160, 128);
     border: 4px solid black;
-    width: 200px;
-    height: 500px;
+    width: 90vw;
+    height: 95vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 40px;
+    padding: 15px;
     border-radius: 15px;
 
 }.c1{
     font-size: 1.8em;
     margin: 5px;
-    width: 200px;
-    height: 60px;
+    width: 60vw;
+    height: 60vh;
     display: flex;
     align-items: center;
     justify-content: center;
